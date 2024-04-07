@@ -1,0 +1,41 @@
+/* style.css */
+
+.title {
+    color: red;
+    background-color: ;
+    font-size: 72px;
+    font-weight: ;
+    text-align: center;
+}
+
+.subtitle {
+    color: orange;
+    background-color: ;
+    font-size: ;
+    font-weight: ;
+    text-align: center;
+}
+
+.info {
+    color: green;
+    background-color: ;
+    font-size: ;
+    font-weight: ;
+    text-align: ;
+}
+
+.list-item {
+    color: blue;
+    background-color: ;
+    font-size: ;
+    font-weight: ;
+    text-align: ;
+}
+
+p {
+    color: violet;
+    background-color: ;
+    font-size: ;
+    font-weight: ;
+    text-align: ;
+}
