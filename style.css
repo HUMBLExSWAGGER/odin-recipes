@@ -1,11 +1,12 @@
 /* style.css */
 
 .title {
-    color: red;
-    background-color: ;
+    color: sandybrown;
+    background-color: purple;
     font-size: 72px;
-    font-weight: ;
+    font-weight: bold;
     text-align: center;
+    margin: 0;
 }
 
 .subtitle {
@@ -24,12 +25,26 @@
     text-align: ;
 }
 
-.list-item {
-    color: blue;
+.recipe-list {
+    color: ;
     background-color: ;
     font-size: ;
     font-weight: ;
+    text-align: center;
+    display: ;
+    padding: auto;
+    margin: auto;
+}
+
+.list-item {
+    color: blue;
+    background-color: ;
+    font-size: 25px;
+    font-weight: ;
     text-align: ;
+    display: inline-block;
+    margin: 0;
+    padding: 0 15px;
 }
 
 p {
